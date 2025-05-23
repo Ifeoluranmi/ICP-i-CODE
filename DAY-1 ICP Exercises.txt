@@ -1,0 +1,49 @@
+Ifeoluwa Emmanuel
+
+Exercise 1:
+
+	Region = Africa
+	Number of node providers = 2
+	Additional info of node providers
+	1. Africa,ZA,Gauteng
+
+		Gauteng 1
+		Data Center ID - jb1
+		Data Center Owner - Teraco
+		Replica Nodes - 6
+		API Boundary Nodes - 0
+		Total Nodes - 6
+		Node Providers - 1
+		Subnets - 3
+
+		Gauteng 2
+		Data Center ID - jb2
+		Data Center Owner - Africa Data Centres
+		Replica Nodes - 18
+		API Boundary Nodes - 0
+		Total Nodes - 18
+		Node Providers - 2
+		Subnets - 13
+
+		Gauteng 3
+		Data Center ID - jb3
+		Data Center Owner - Xneelo
+		Replica Nodes - 5
+		API Boundary Nodes - 1
+		Total Nodes - 6
+		Node Providers - 1
+		Subnets - 4
+
+
+	2. Africa,ZA,Cape Town
+
+		Cape Town 1
+		Data Center ID - ct1
+		Data Center Owner - Africa Data Centres
+		Replica Nodes - 6
+		API Boundary Nodes - 0
+		Total Nodes - 6
+		Node Providers - 1
+		Subnets - 4
+
+Exercise 2
